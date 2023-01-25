@@ -1,0 +1,43 @@
+.text-small {
+    font-size: .8rem;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.text-white{
+ color:white;
+}
+
+.page {
+    width: 80%;
+    background-color: #328fa8;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.img {
+ background-image: url('bg.jpg');
+ background-repeat:no-repeat;
+ background-position: center center;
+ background-attachment:fixed;
+ background-size:100%;
+ font-family: sans-serif;
+}
+.middle{
+    text-align: center;
+}
+hr {
+height: 2px;
+background-color: black;
+border-color: black;
+}
+.rbimg {
+    background-image: url('rulebook.JPG');
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-attachment:fixed;
+    background-size:100%;
+    font-family: sans-serif;
+   } .rbtext-small{
+    font-size: .8rem;
+    font-family: sans-serif ;}
